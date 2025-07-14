@@ -1,0 +1,99 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f3f4f6;
+  color: #1f2937;
+}
+
+/* Wrapper for sticky footer */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Header */
+header {
+  background: #111827;
+  color: #facc15;
+  padding: 20px 40px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Main Section */
+.main-section {
+  flex: 1;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 10px;
+}
+
+select {
+  margin: 20px 0;
+  padding: 12px;
+  width: 60%;
+  max-width: 400px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 12px 25px;
+  background: #facc15;
+  border: none;
+  font-weight: bold;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #eab308;
+}
+
+/* Suggestions Box */
+.suggestion-box {
+  margin-top: 40px;
+  text-align: left;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.suggestion-box h2 {
+  margin-bottom: 15px;
+  color: #1f2937;
+}
+
+#career-list {
+  list-style: disc;
+  padding-left: 20px;
+  line-height: 1.7;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Footer */
+footer {
+  background-color: #111827;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+}

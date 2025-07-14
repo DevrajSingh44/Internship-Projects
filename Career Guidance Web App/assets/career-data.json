@@ -1,0 +1,48 @@
+[
+  {
+    "interest": "Technology",
+    "suggestions": [
+      "Frontend Developer (HTML, CSS, JavaScript)",
+      "Backend Developer (Node.js, Python)",
+      "Full Stack Developer",
+      "Data Analyst (Excel, SQL, Power BI)",
+      "Cloud Engineer (AWS, Azure basics)",
+      "Cybersecurity Analyst",
+      "DevOps Trainee",
+      "Mobile App Developer (React Native/Flutter)"
+    ]
+  },
+  {
+    "interest": "Design",
+    "suggestions": [
+      "UI/UX Designer (Figma, Adobe XD)",
+      "Graphic Designer (Photoshop, Illustrator)",
+      "Product Designer",
+      "Visual Communication Specialist",
+      "Motion Graphics Artist",
+      "Creative Director (advanced)"
+    ]
+  },
+  {
+    "interest": "Business",
+    "suggestions": [
+      "Business Analyst (Excel, Power BI, SQL)",
+      "Digital Marketing Executive",
+      "Entrepreneur / Startup Founder",
+      "Finance Associate (Tally, Excel, Reporting)",
+      "HR & Talent Management",
+      "Product Manager (with tech basics)"
+    ]
+  },
+  {
+    "interest": "Science",
+    "suggestions": [
+      "Research Scientist (Biology, Chemistry)",
+      "Lab Technician (Medical/Pharma)",
+      "Pharmacovigilance Associate",
+      "Environmental Analyst",
+      "Data-Driven Researcher",
+      "AI/ML in Scientific Domains (Python, ML basics)"
+    ]
+  }
+]
